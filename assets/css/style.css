@@ -247,7 +247,8 @@ padding-bottom: 90px;
 }
 .cont4_archive{
     display: flex;
-    justify-content: center;
+    margin: auto;
+    max-width: 120px;
 }
 .cont4_img{
     margin: auto;
